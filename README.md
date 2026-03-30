@@ -1,5 +1,3 @@
-# TCC
-<p>https://asesweb.governoeletronico.gov.br/</p>
 # 🎮 Sistema Web Educacional para Crianças com TEA
 
 Este projeto foi desenvolvido como Trabalho de Conclusão de Curso (TCC), com o objetivo de auxiliar no tratamento de crianças com Transtorno do Espectro Autista (TEA) através de um sistema web interativo.
