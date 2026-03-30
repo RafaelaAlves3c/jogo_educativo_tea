@@ -25,9 +25,3 @@ A aplicação consiste em um jogo online educativo que busca estimular o desenvo
 ## 🧠 Objetivo
 
 Proporcionar uma ferramenta digital que auxilie profissionais da saúde e familiares no acompanhamento do desenvolvimento de crianças com TEA.
-
-## 🚀 Como Executar o Projeto
-
-1. Clone o repositório:
-```bash
-git clone https://github.com/RafaelaAlves3c/TCC
